@@ -8,6 +8,12 @@ Files "emails" and "reports" were already ready from part of Google, "cars.py" w
 
 
 ## Usage
+Make the Script executable
+<code>
+  sudo chmod o+wx cars.py
+</code>
+
+Run Script
 <code>
   sudo chmod o+wx cars.py
   ./cars.py
